@@ -4,8 +4,8 @@
 - **Tên nhóm**: BHAK  
 - **Thành viên** (4 người):
   - [Mai Quốc Bình]  
-  - [Tên bạn 2]  
-  - [Tên bạn 3]  
+  - [Trần Ngọc Khánh Huy]  
+  - [Ngô Quang Anh]  
   - [Huỳnh Nguyễn Phúc Khang]  
 
 ## 🌟 Giới thiệu dự án
