@@ -3,10 +3,10 @@
 ## 👥 Nhóm phát triển
 - **Tên nhóm**: BHAK  
 - **Thành viên** (4 người):
-  - [Tên bạn 1]  
+  - [Mai Quốc Bình]  
   - [Tên bạn 2]  
   - [Tên bạn 3]  
-  - [Tên bạn 4]  
+  - [Huỳnh Nguyễn Phúc Khang]  
 
 ## 🌟 Giới thiệu dự án
 “Bạn cần, tôi cho” là ứng dụng di động giúp kết nối **người có đồ dư thừa** với **người đang cần**, thay vì bỏ phí hoặc gây lãng phí.  
