@@ -1,4 +1,4 @@
-# 📱 Bạn cần, tôi cho (Mobile App)
+# 📱 EcoTrade (Mobile App)
 
 ## 👥 Nhóm phát triển
 - **Tên nhóm**: BHAK  
